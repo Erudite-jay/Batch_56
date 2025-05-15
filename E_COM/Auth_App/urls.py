@@ -9,6 +9,8 @@ from . import views
 
 urlpatterns=[
  path('home/',views.homepage),
- path('template-page/',views.temp_page)
+ path('template-page/',views.temp_page),
+
+ path('contact-data/',views.contact_data)
  
 ]

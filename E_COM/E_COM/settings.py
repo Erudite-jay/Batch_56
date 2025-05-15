@@ -42,6 +42,9 @@ INSTALLED_APPS = [
 
     'Auth_App',
     'Payment_App',
+
+    'rest_framework',
+
 ]
 
 MIDDLEWARE = [
