@@ -42,6 +42,7 @@ INSTALLED_APPS = [
 
     'Auth_App',
     'Payment_App',
+    'Form_App',
 
     'rest_framework',
 
